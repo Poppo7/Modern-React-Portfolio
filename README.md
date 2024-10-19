@@ -1,2 +1,2 @@
-# Modern-React-Portfolio-
+# Modern-React-Portfolio
 My personal portfolio website using Tailwind css and Framer Motion
